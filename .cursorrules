@@ -1,0 +1,63 @@
+# Diş Kliniği Web Sitesi - Cursor Kuralları
+
+## Genel Kurallar
+- Tüm kod (HTML, CSS, JS) modern ve güncel standartlara uygun olmalıdır
+- Kod yazımında Türkçe açıklamalar ve yorumlar kullanılacaktır
+- Profesyonel ve temiz kod yazımına özen gösterilecektir
+
+## Stil Kuralları
+
+### Renk Paleti
+- Ana renkler: Beyaz (#FFFFFF), açık gri (#F8F9FA), açık mavi (#E3F2FD)
+- Vurgu rengi: Nane yeşili (#4CAF50) veya profesyonel mavi (#2196F3)
+- Metin renkleri: Koyu gri (#333333), orta gri (#666666)
+- Arka plan: Temiz beyaz ve açık tonlar
+
+### Fontlar
+- Ana font: 'Poppins', 'Roboto', sans-serif
+- Başlık fontları: 'Montserrat', sans-serif
+- Okunabilirlik öncelikli, profesyonel fontlar kullanılacak
+
+### Boşluklar
+- Padding ve margin değerleri tutarlı olacak
+- Öğeler arasında yeterli boşluk bırakılacak
+- Temiz ve düzenli görünüm sağlanacak
+
+## HTML Kuralları
+- Semantic HTML etiketleri kullanılacak (header, nav, main, section, article, footer)
+- Anlamlı ve açıklayıcı class isimleri kullanılacak
+- Accessibility (erişilebilirlik) standartlarına uyulacak
+- SEO dostu yapı oluşturulacak
+
+## CSS Kuralları
+- Kapsamlı Türkçe yorumlar eklenmeli
+- BEM metodolojisine benzer sınıflandırma yapılacak
+- Mobile-first responsive tasarım yaklaşımı
+- CSS Grid ve Flexbox modern layout teknikleri kullanılacak
+- @media queries ile farklı ekran boyutları desteklenecek
+
+## JavaScript Kuralları
+- Modern ES6+ standartları kullanılacak
+- Temiz, iyi yorumlanmış kod yazılacak
+- Event handling ve DOM manipülasyonu modern yöntemlerle yapılacak
+- Form validasyonu kullanıcı dostu olacak
+- Mobil menü ve etkileşimli öğeler smooth animasyonlarla desteklenecek
+
+## Görsel Kuralları
+- Yüksek çözünürlüklü ancak web için optimize edilmiş görseller
+- Diş hekimi, modern klinik, gülen hasta temalı görseller
+- Alt text'ler Türkçe ve açıklayıcı olacak
+- Lazy loading uygulanacak
+
+## Performans Kuralları
+- Hızlı yükleme süreleri hedeflenecek
+- CSS ve JS dosyaları minimize edilecek
+- Görseller optimize edilecek
+- Modern web standartlarına uyulacak
+
+## Dokümantasyon
+- Her adım için detaylı Türkçe dokümantasyon oluşturulacak
+- Kod açıklamaları Türkçe yazılacak
+- Proje yapısı ve dosya organizasyonu açık olacak
+
+
