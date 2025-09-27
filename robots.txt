@@ -18,3 +18,5 @@ Allow: /contact.html
 Allow: /gallery.html
 Allow: /careers.html
 Allow: /implant.html
+
+deneme deneme
